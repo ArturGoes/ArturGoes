@@ -17,16 +17,17 @@
 <!-- Adicione margem superior aqui -->
 <div style="margin-top: 20px;">
     
-![ArturGoes GitHub stats](https://github-readme-stats.vercel.app/api?username=arturgoes&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=arturgoes&theme=vue-dark&hide_border=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturgoes&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arturgoes&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arturgoes&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arturgoes&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
 ### TECNOLOGIAS QUE UTILIZO NO MEU DIA-DIA
 ---
 
 <div style="display: inline_block;"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="150"/>
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="135"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="120"/>
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="105"/>
 </div>
