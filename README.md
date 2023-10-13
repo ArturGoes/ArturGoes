@@ -17,7 +17,7 @@
 <!-- Adicione margem superior aqui -->
 <div style="margin-top: 20px;">
     
-![ArturGoes GitHub stats](https://github-readme-stats.vercel.app/api?username=arturgoes&show_icons=true&theme=radical)
+![ArturGoes GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMallone&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturgoes&langs_count=8)
 
