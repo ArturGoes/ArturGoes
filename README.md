@@ -17,9 +17,9 @@
 <!-- Adicione margem superior aqui -->
 <div style="margin-top: 20px;">
     
-![ArturGoes GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMallone&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturgoes&langs_count=8)
+![ArturGoes GitHub stats](https://github-readme-stats.vercel.app/api?username=arturgoes&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=arturgoes&theme=vue-dark&hide_border=true)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturgoes&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
