@@ -83,17 +83,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
   </tr>
 </table>
 
----
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <a href="https://github.com/ArturGoes">
-    <!-- O username aqui DEVE ser ArturGoes para o link funcionar -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturGoes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturGoes&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</p>
 
 ---
 
@@ -109,6 +99,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
 <p align="center">
   Feito com ❤️ por Artur Gomes Travassos
 </p>
+
 
 
 
