@@ -70,7 +70,7 @@ Tenho um bom domínio em linguagens como **C e C++**, e em tecnologias web como 
 ### 🐍 Minha Cobrinha de Contribuições
 
 <p align="center">
-  <img src="https://github.com/ArturGoes/ArturGoes/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/ArturGoes/ArturGoes/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 
