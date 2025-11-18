@@ -14,20 +14,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # Gera a versão CLARA com eixos
-      - uses: Platane/snk@v3
+      # Usaremos a versão 'svg-only' da action, que é mais estável para isso
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake.svg
-          args: --show-axis
+          
+          # A sintaxe correta para múltiplos outputs com parâmetros
+          outputs: |
+            dist/github-contribution-grid-snake.svg?show_axis=true
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&show_axis=true
 
-      # Gera a versão ESCURA com eixos (passo separado)
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake-dark.svg
-          args: --palette github-dark --show-axis
-      
       # Publica os arquivos gerados no branch 'output'
       - uses: crazy-max/ghaction-github-pages@v3
         with:
