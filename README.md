@@ -10,10 +10,6 @@
   <strong>Estudante de Engenharia da Computação</strong>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArturGoes&style=for-the-badge&color=blueviolet" alt="Contador de Visitas">
-</p>
-
 <!-- Links Sociais -->
 <p align="center">
   <a href="https://www.linkedin.com/in/artur-gomes-travassos-a00b9b292/" target="_blank">
@@ -22,6 +18,10 @@
   <a href="mailto:seu-email-aqui@exemplo.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArturGoes&style=for-the-badge&color=blueviolet" alt="Contador de Visitas">
 </p>
 
 <p align="center">
@@ -115,4 +115,5 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
 <p align="center">
   Feito com ❤️ por Artur Gomes Travassos
 </p>
+
 
