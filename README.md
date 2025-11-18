@@ -5,7 +5,20 @@
 
 </div>
 
-**Estudante de Engenharia da Computação**
+<!-- Título alinhado ao centro -->
+<p align="center">
+  <strong>Estudante de Engenharia da Computação</strong>
+</p>
+
+<!-- Links Sociais -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/artur-gomes-travassos-a00b9b292/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:seu-email-aqui@exemplo.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/ArturGoes">
@@ -71,11 +84,13 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
 ### 📂 Principais Projetos
 
 <p align="center">
-  <a href="[https://github.com/ArturGoes/Portfolio](https://github.com/ArturGoes/adoteai_restapi-springboot)" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArturGoes&repo=Portfolio&theme=tokyonight" alt="Repositório do Portfolio">
+  <!-- Projeto 1 Corrigido -->
+  <a href="https://github.com/ArturGoes/adoteai_restapi-springboot" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArturGoes&repo=adoteai_restapi-springboot&theme=tokyonight" alt="Repositório AdoteAí">
   </a>
-  <a href="[https://github.com/ArturGoes/PROJETO-WEB-I](https://github.com/ArturGoes/One-Piece-Project)" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArturGoes&repo=PROJETO-WEB-I&theme=tokyonight" alt="Repositório do Projeto Web I">
+  <!-- Projeto 2 Corrigido -->
+  <a href="https://github.com/ArturGoes/One-Piece-Project" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArturGoes&repo=One-Piece-Project&theme=tokyonight" alt="Repositório One Piece Project">
   </a>
 </p>
 
@@ -91,20 +106,8 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
   <img src="https://raw.githubusercontent.com/ArturGoes/ArturGoes/output/github-contribution-grid-snake-dark.svg" alt="Animação das Contribuições">
 </p>
 
-<!-- Links Sociais -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/artur-gomes-travassos-a00b9b292/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:seu-email-aqui@exemplo.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
 ---
 
 <p align="center">
   Feito com ❤️ por Artur Gomes Travassos
 </p>
-
-
