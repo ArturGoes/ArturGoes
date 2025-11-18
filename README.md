@@ -94,7 +94,9 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
   </a>
 </p>
 
-<div align="center">### 🐍 Contribuições no Último Ano</div>
+---
+
+### 🐍 Contribuições no Último Ano
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArturGoes/ArturGoes/output/github-contribution-grid-snake-dark.svg" alt="Animação das Contribuições">
 </p>
