@@ -1,30 +1,19 @@
 <div align="center">
 
 <!-- Título e Introdução -->
-![Atividade](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Olá,%20eu%20sou%20o%20Artur%20de%20Gomes%20Travassos%20&fontSize=35&animation=fadeIn)
+![Cabeçalho](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Olá,%20eu%20sou%20o%20Artur%20Gomes%20Travassos!&fontSize=35&animation=fadeIn)
 
+</div>
 
 **Estudante de Engenharia da Computação**
 
-<br>
-
 <!-- Links Sociais -->
-<!-- <p align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/artur-gomes-travassos-a00b9b292/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:seu-email-aqui@exemplo.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p> -->
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <a href="https://github.com/ArturGoes">
-    <!-- O username aqui DEVE ser ArturGoes para o link funcionar -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturGoes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturGoes&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </p>
 
@@ -62,7 +51,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
       <strong>Hardware & Sistemas</strong><br><br>
       <img src="https://img.shields.io/badge/VHDL-007ACC?style=for-the-badge&logoColor=white" alt="VHDL">
       <img src="https://img.shields.io/badge/FPGA-D9534F?style=for-the-badge&logoColor=white" alt="FPGA">
-      <img src="https://img.shields.io/badge/Circuitos_Digitais-5BC0DE?style=for-the-badge&logoColor=white" alt="Circuitos Digitais">
     </td>
   </tr>
   <tr>
@@ -76,20 +64,45 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </td>
     <td align="center" width="180">
-      <!-- Espaço livre para adicionar mais categorias no futuro -->
+      <!-- Espaço livre -->
     </td>
   </tr>
 </table>
 
+---
 
+### 📂 Principais Projetos
+
+<p align="center">
+  <a href="https://github.com/ArturGoes/Portfolio" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArturGoes&repo=Portfolio&theme=tokyonight" alt="Repositório do Portfolio">
+  </a>
+  <a href="https://github.com/ArturGoes/PROJETO-WEB-I" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArturGoes&repo=PROJETO-WEB-I&theme=tokyonight" alt="Repositório do Projeto Web I">
+  </a>
+</p>
 
 ---
 
-### 🐍 Minhas Contribuições no GitHub
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <!-- O link aqui DEVE usar ArturGoes para funcionar -->
-  <img src="https://raw.githubusercontent.com/ArturGoes/ArturGoes/output/github-contribution-grid-snake-dark.svg" alt="snake contribution grid">
+  <a href="https://github.com/ArturGoes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturGoes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturGoes&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</p>
+
+---
+
+### 👁️ Contagem de Visitas
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArturGoes&style=for-the-badge&color=blueviolet" alt="Contador de Visitas">
+</p>
+
+### 🐍 Contribuições no Último Ano
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArturGoes/ArturGoes/output/github-contribution-grid-snake-dark.svg" alt="Animação das Contribuições">
 </p>
 
 ---
@@ -97,11 +110,3 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
 <p align="center">
   Feito com ❤️ por Artur Gomes Travassos
 </p>
-
-
-
-
-
-
-
-
