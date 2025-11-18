@@ -1,7 +1,7 @@
 <!-- Animação de Título -->
 <p align="center">
   <a href="https://github.com/ArturGoes">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=33A4F5&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Artur+Goes!%3BEstudante+de+Eng.+da+Computa%C3%A7%C3%A3o%3BDesenvolvedor+em+forma%C3%A7%C3%A3o." alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=33A4F5&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Artur+Gomes!%3BEstudante+de+Eng.+da+Computa%C3%A7%C3%A3o%3BDesenvolvedor+em+forma%C3%A7%C3%A3o." alt="Typing SVG">
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 ### ✨ Sobre Mim
 
-Olá! Sou Artur Goes, um estudante de Engenharia da Computação cursando o segundo ano, apaixonado por inovação e pela busca contínua de conhecimento.
+Olá! Sou Artur Gomes, um estudante de Engenharia da Computação cursando o segundo ano, apaixonado por inovação e pela busca contínua de conhecimento.
 
 Atualmente, estou em busca de uma **oportunidade de estágio** para aplicar minhas habilidades, enfrentar desafios reais e aprender com profissionais experientes na área de tecnologia.
 
@@ -72,3 +72,4 @@ Tenho um bom domínio em linguagens como **C e C++**, e em tecnologias web como 
 <p align="center">
   <img src="https://github.com/ArturGoes/ArturGoes/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
