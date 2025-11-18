@@ -1,12 +1,12 @@
-# Olá, eu sou o Artur Goes! 👋
+# Olá, eu sou o Artur Gomes Travassos! 👋
 
-**Estudante de Engenharia da Computação | Desenvolvedor em Formação**
+**Estudante de Engenharia da Computação**
 
 <br>
 
 <!-- Links Sociais -->
 <p align="left">
-  <a href="https://www.linkedin.com/in/artur-goes/" target="_blank">
+  <a href="https://www.linkedin.com/in/artur-gomes-travassos-a00b9b292/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:seu-email-aqui@exemplo.com">
@@ -19,10 +19,10 @@
 ### ✨ Sobre Mim
 
 <p align="left">
-  Sou Artur Goes, um estudante de Engenharia da Computação cursando o segundo ano, apaixonado por inovação e pela busca contínua de conhecimento. Atualmente, estou em busca de uma <strong>oportunidade de estágio</strong> para aplicar minhas habilidades, enfrentar desafios reais e aprender com profissionais experientes na área de tecnologia.
+  Sou estudante de Engenharia da Computação no <strong>Instituto de Ensino Superior de Brasília (IESB)</strong>, com um forte interesse em unir o mundo do software e do hardware. Minha jornada acadêmica tem sido focada em construir uma base sólida, desde o desenvolvimento web com <strong>HTML, CSS e JavaScript</strong> até linguagens de mais baixo nível como <strong>C e C++</strong>.
 </p>
 <p align="left">
-  Tenho um bom domínio em linguagens como <strong>C e C++</strong>, e em tecnologias web como <strong>HTML e CSS</strong>, com conhecimentos iniciais em <strong>JavaScript</strong>. Minha paixão pela engenharia vai além do software: tenho uma base sólida em <strong>circuitos digitais, VHDL, FPGAs</strong> e <strong>sistemas binários</strong>, áreas que me fascinam e que conectam o código ao mundo físico.
+  Sou fascinado pela forma como o código interage com o mundo físico, por isso tenho grande interesse em <strong>circuitos digitais, VHDL e FPGAs</strong>. Estou sempre em busca de novos desafios e empolgado para aplicar meu conhecimento em uma <strong>oportunidade de estágio</strong>, onde eu possa contribuir e continuar aprendendo.
 </p>
 
 ---
@@ -48,6 +48,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
       <strong>Hardware & Sistemas</strong><br><br>
       <img src="https://img.shields.io/badge/VHDL-007ACC?style=for-the-badge&logoColor=white" alt="VHDL">
       <img src="https://img.shields.io/badge/FPGA-D9534F?style=for-the-badge&logoColor=white" alt="FPGA">
+      <img src="https://img.shields.io/badge/Circuitos_Digitais-5BC0DE?style=for-the-badge&logoColor=white" alt="Circuitos Digitais">
     </td>
   </tr>
   <tr>
@@ -59,7 +60,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
       <strong>Ferramentas</strong><br><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
     </td>
     <td align="center" width="180">
       <!-- Espaço livre para adicionar mais categorias no futuro -->
@@ -73,7 +73,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
 
 <p align="center">
   <a href="https://github.com/ArturGoes">
-    <!-- Mudei o tema para 'tokyonight' para ficar igual ao perfil de referência -->
+    <!-- O username aqui DEVE ser ArturGoes para o link funcionar -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturGoes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturGoes&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
@@ -81,15 +81,15 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
 
 ---
 
-### 🐍 Minha Cobrinha de Contribuições
+### 🐍 Minhas Contribuições no GitHub
 
 <p align="center">
-  <!-- Use a versão escura da cobrinha para combinar com o tema -->
-  <img src="https://raw.githubusercontent.com/ArturGoes/ArturGoes/output/github-contribution-grid-snake-dark.svg" alt="snake">
+  <!-- O link aqui DEVE usar ArturGoes para funcionar -->
+  <img src="https://raw.githubusercontent.com/ArturGoes/ArturGoes/output/github-contribution-grid-snake-dark.svg" alt="snake contribution grid">
 </p>
 
 ---
 
 <p align="center">
-  Feito com ❤️ por Artur Goes
+  Feito com ❤️ por Artur Gomes Travassos
 </p>
