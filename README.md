@@ -1,4 +1,8 @@
-# Olá, eu sou o Artur Gomes Travassos! 👋
+<div align="center">
+
+<!-- Título e Introdução -->
+![Atividade](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Olá,%20eu%20sou%20o%20Artur%20de%20Gomes%20Travassos%20&fontSize=35&animation=fadeIn)
+
 
 **Estudante de Engenharia da Computação**
 
@@ -93,3 +97,4 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
 <p align="center">
   Feito com ❤️ por Artur Gomes Travassos
 </p>
+
