@@ -5,32 +5,29 @@ permissions:
 
 on:
   schedule:
-    # Roda à meia-noite (UTC) todos os dias
     - cron: "0 0 * * *"
-  
-  # Permite que você rode manualmente pela aba Actions
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Faz o checkout do seu repositório
       - uses: actions/checkout@v3
 
-      # Gera a animação da cobrinha usando o método 'args'
+      # Gera a versão CLARA com eixos
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          
-          # Define os arquivos de saída com nomes simples
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-            
-          # Adiciona os parâmetros de estilo e eixos aqui
-          args: --palette github-dark --show-axis
+          outputs: dist/github-contribution-grid-snake.svg
+          args: --show-axis
 
+      # Gera a versão ESCURA com eixos (passo separado)
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-contribution-grid-snake-dark.svg
+          args: --palette github-dark --show-axis
+      
       # Publica os arquivos gerados no branch 'output'
       - uses: crazy-max/ghaction-github-pages@v3
         with:
