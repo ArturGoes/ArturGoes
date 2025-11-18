@@ -71,10 +71,10 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
 ### 📂 Principais Projetos
 
 <p align="center">
-  <a href="https://github.com/ArturGoes/Portfolio" target="_blank">
+  <a href="[https://github.com/ArturGoes/Portfolio](https://github.com/ArturGoes/adoteai_restapi-springboot)" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArturGoes&repo=Portfolio&theme=tokyonight" alt="Repositório do Portfolio">
   </a>
-  <a href="https://github.com/ArturGoes/PROJETO-WEB-I" target="_blank">
+  <a href="[https://github.com/ArturGoes/PROJETO-WEB-I](https://github.com/ArturGoes/One-Piece-Project)" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArturGoes&repo=PROJETO-WEB-I&theme=tokyonight" alt="Repositório do Projeto Web I">
   </a>
 </p>
@@ -106,4 +106,5 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
 <p align="center">
   Feito com ❤️ por Artur Gomes Travassos
 </p>
+
 
