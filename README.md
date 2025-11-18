@@ -94,7 +94,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
   </a>
 </p>
 
-<p align="center">### 🐍 Contribuições no Último Ano</p>
+<div align="center">### 🐍 Contribuições no Último Ano</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArturGoes/ArturGoes/output/github-contribution-grid-snake-dark.svg" alt="Animação das Contribuições">
 </p>
@@ -108,6 +108,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ArturGoes&style=for-the-badge&color=blueviolet" alt="Contador de Visitas">
 </p>
+
 
 
 
