@@ -1,5 +1,9 @@
 name: Generate Snake Animation
 
+# Adicione este bloco de permissões
+permissions:
+  contents: write
+
 on:
   schedule:
     # Roda à meia-noite (UTC) todos os dias
