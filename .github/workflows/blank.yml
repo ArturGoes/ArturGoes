@@ -1,6 +1,5 @@
 name: Generate Snake Animation
 
-# Adicione este bloco de permissões
 permissions:
   contents: write
 
@@ -25,10 +24,10 @@ jobs:
           # Pega dinamicamente o seu nome de usuário do GitHub
           github_user_name: ${{ github.repository_owner }}
           
-          # Define os arquivos de saída
+          # Define os arquivos de saída, agora com os eixos de dia/mês
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?&show_axis=true
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&show_axis=true
 
       # Publica os arquivos gerados no branch 'output'
       - uses: crazy-max/ghaction-github-pages@v3
