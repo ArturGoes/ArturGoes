@@ -27,10 +27,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArturGoes&style=for-the-badge&color=blueviolet" alt="Contador de Visitas">
-</p>
-
 ---
 
 ### ✨ Sobre Mim
@@ -100,6 +96,8 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
 
 ---
 
+
+
 ### 🐍 Contribuições no Último Ano
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArturGoes/ArturGoes/output/github-contribution-grid-snake-dark.svg" alt="Animação das Contribuições">
@@ -110,6 +108,11 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
 <p align="center">
   Feito com ❤️ por Artur Gomes Travassos
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArturGoes&style=for-the-badge&color=blueviolet" alt="Contador de Visitas">
+</p>
+
 
 
 
