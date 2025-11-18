@@ -18,13 +18,12 @@ jobs:
       # Faz o checkout do seu repositório
       - uses: actions/checkout@v3
 
-      # Gera a animação da cobrinha (versão mais recente)
+      # Gera a animação da cobrinha
       - uses: Platane/snk@v3
         with:
-          # Pega dinamicamente o seu nome de usuário do GitHub
           github_user_name: ${{ github.repository_owner }}
           
-          # Define os arquivos de saída, agora com os eixos de dia/mês
+          # A linha abaixo é a que adiciona os eixos de dias e meses
           outputs: |
             dist/github-contribution-grid-snake.svg?&show_axis=true
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&show_axis=true
