@@ -15,7 +15,10 @@
   <a href="https://www.linkedin.com/in/artur-gomes-travassos-a00b9b292/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seu-email-aqui@exemplo.com">
+  <a href="https://www.instagram.com/eaegomexs_/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:artur.travassos42@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -84,11 +87,9 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
 ### 📂 Principais Projetos
 
 <p align="center">
-  <!-- Projeto 1 Corrigido -->
   <a href="https://github.com/ArturGoes/adoteai_restapi-springboot" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArturGoes&repo=adoteai_restapi-springboot&theme=tokyonight" alt="Repositório AdoteAí">
   </a>
-  <!-- Projeto 2 Corrigido -->
   <a href="https://github.com/ArturGoes/One-Piece-Project" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArturGoes&repo=One-Piece-Project&theme=tokyonight" alt="Repositório One Piece Project">
   </a>
@@ -110,10 +111,3 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ArturGoes&style=for-the-badge&color=blueviolet" alt="Contador de Visitas">
 </p>
-
-
-
-
-
-
-
