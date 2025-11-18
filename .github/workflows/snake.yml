@@ -18,15 +18,18 @@ jobs:
       # Faz o checkout do seu repositório
       - uses: actions/checkout@v3
 
-      # Gera a animação da cobrinha
+      # Gera a animação da cobrinha usando o método 'args'
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           
-          # A linha abaixo é a que adiciona os eixos de dias e meses
+          # Define os arquivos de saída com nomes simples
           outputs: |
-            dist/github-contribution-grid-snake.svg?&show_axis=true
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&show_axis=true
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+            
+          # Adiciona os parâmetros de estilo e eixos aqui
+          args: --palette github-dark --show-axis
 
       # Publica os arquivos gerados no branch 'output'
       - uses: crazy-max/ghaction-github-pages@v3
