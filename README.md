@@ -32,8 +32,6 @@
 
 ---
 
----
-
 ### ✨ Sobre Mim
 
 <p align="left">
@@ -111,5 +109,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
 <p align="center">
   Feito com ❤️ por Artur Gomes Travassos
 </p>
+
 
 
