@@ -10,6 +10,10 @@
   <strong>Estudante de Engenharia da Computação</strong>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArturGoes&style=for-the-badge&color=blueviolet" alt="Contador de Visitas">
+</p>
+
 <!-- Links Sociais -->
 <p align="center">
   <a href="https://www.linkedin.com/in/artur-gomes-travassos-a00b9b292/" target="_blank">
@@ -111,3 +115,4 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho familiarida
 <p align="center">
   Feito com ❤️ por Artur Gomes Travassos
 </p>
+
